@@ -4,3 +4,4 @@ bqplot
 pyowm
 paramiko
 scikit-learn
+matplotlib
