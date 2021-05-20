@@ -3,3 +3,4 @@ voila-material
 bqplot
 pyowm
 paramiko
+scikit-learn
